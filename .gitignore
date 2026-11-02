@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Viewer snapshots ("f" key) and snapshot command output
+tc01a-*.png
+tc01a-*.npy
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

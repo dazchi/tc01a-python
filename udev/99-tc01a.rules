@@ -1,0 +1,2 @@
+# Fluke iSee TC01A thermal camera (VID 0x0f7e) - user access for libusb
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0f7e", MODE="0666", TAG+="uaccess"
