@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Cross-platform driver for the Fluke iSee TC01A USB thermal camera (Infisense 256x192 core) via libusb"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "MIT" }
+license = { file = "LICENSE" }
 dependencies = [
     "libusb1>=3.1",   # python bindings; Windows/macOS wheels bundle libusb-1.0 >= 1.0.27
     "numpy>=1.21",

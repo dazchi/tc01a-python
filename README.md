@@ -117,3 +117,7 @@ See [FINDINGS.md](FINDINGS.md) for the full write‑up with addresses.
   own values, as the app does.
 * The library never writes the SDK "private key" area, never writes flash
   and never runs calibration commands.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Not affiliated with or endorsed by Fluke or Infisense.
